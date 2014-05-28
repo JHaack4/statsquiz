@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/StatsQuiz/StatsQuiz.iml" filepath="$PROJECT_DIR$/StatsQuiz/StatsQuiz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StatsQuiz-android/StatsQuiz-android.iml" filepath="$PROJECT_DIR$/StatsQuiz-android/StatsQuiz-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StatsQuiz-desktop/StatsQuiz-desktop.iml" filepath="$PROJECT_DIR$/StatsQuiz-desktop/StatsQuiz-desktop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StatsQuiz-html/StatsQuiz-html.iml" filepath="$PROJECT_DIR$/StatsQuiz-html/StatsQuiz-html.iml" />
+    </modules>
+  </component>
+</project>
+
