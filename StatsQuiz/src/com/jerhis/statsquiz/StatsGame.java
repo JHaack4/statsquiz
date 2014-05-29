@@ -76,7 +76,7 @@ public class StatsGame {
         else if (response == currentQuestion.answer)
             f.draw(b,"You put the correct answer of " + convert(currentQuestion.answer) + ".",q ? 80 : 50,70);
         else
-            f.draw(b,"You put " + convert(response) + ", but the answer was " + convert(currentQuestion.answer) + ".",q ? 60 : 10,60);
+            f.draw(b,"You put " + convert(response) + ", but the answer was " + convert(currentQuestion.answer) + ".",q ? 60 : 10,70);
 
         f.draw(b,"You scored " + currentQuestion.getScore(response) + " points.",170, 110);
     }
@@ -88,7 +88,7 @@ public class StatsGame {
         else return ""+f;
     }
 
-    public void drawRunning(BitmapFont f, SpriteBatch b, Texture line, Texture slid) {
+    public void drawRunning(BitmapFont f, SpriteBatch b, Texture line, Texture slid, Texture checked, Texture unchecked) {
         //f.draw(b,"res " + response + " ans " + currentQuestion.answer + " scr " + currentQuestion.getScore(response),100,370)
 
         if (currentQuestion instanceof QuestionMC) {
@@ -100,8 +100,8 @@ public class StatsGame {
 
             for (int k = 1; k <= 4; k++) {
                 if (response * 10 == k)
-                    f.draw(b,"X",x - 45,mcYValues[k] + fontCorrection - fontHeight/2);
-                else f.draw(b,"O",x - 45,mcYValues[k] + fontCorrection - fontHeight/2);
+                    b.draw(checked,x - 45,mcYValues[k] -19);
+                else b.draw(unchecked,x - 45,mcYValues[k] -19);
             }
 
             f.draw(b,"A: " + ((QuestionMC)(currentQuestion)).a,x,mcYValues[1] + fontCorrection - fontHeight/2);

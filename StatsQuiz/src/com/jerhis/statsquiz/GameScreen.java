@@ -17,7 +17,7 @@ public class GameScreen implements Screen, InputProcessor {
 
 	TextureAtlas textures;// textures2, textures3;
 	//AtlasRegion
-    Texture bg, next, fin, newland1, newland2, newland3, line, slid;
+    Texture bg, next, fin, newland1, newland2, newland3, line, slid, checked, unchecked;
 	//State state;
 
     boolean leavingToMainMenu, waitingToStart, results, finished;
@@ -64,6 +64,8 @@ public class GameScreen implements Screen, InputProcessor {
         newland3 = new Texture(Gdx.files.internal("newlandsad1.png"));
         line = new Texture(Gdx.files.internal("line.png"));
         slid = new Texture(Gdx.files.internal("slider.png"));
+        checked = new Texture(Gdx.files.internal("checked.png"));
+        unchecked = new Texture(Gdx.files.internal("unchecked.png"));
 
         //splash = new Texture(Gdx.files.internal("splash.png"));
 		//highScore = game.prefs.getInteger("best", 0);
@@ -130,7 +132,7 @@ public class GameScreen implements Screen, InputProcessor {
             //d("RUNNING " + game.g.round, 50, 300);
             game.batch.draw(bg,0,0);
             d("" + ((int)(game.g.time*10))/10.0, game.g.time > 10 ? 700 : 727, 490);
-            game.g.drawRunning(game.font, game.batch, line, slid);
+            game.g.drawRunning(game.font, game.batch, line, slid, checked, unchecked);
         }
 
 		d("Score: " + (int)game.g.score, 10, 490);

@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="68f7c377-8c1a-4e2a-ad5d-4af3b0eeec7d" name="Default" comment="" />
+    <list default="true" id="68f7c377-8c1a-4e2a-ad5d-4af3b0eeec7d" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StatsQuiz-android/assets/checked.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StatsQuiz-android/assets/unchecked.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StatsQuiz/src/com/jerhis/statsquiz/GameScreen.java" afterPath="$PROJECT_DIR$/StatsQuiz/src/com/jerhis/statsquiz/GameScreen.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StatsQuiz/src/com/jerhis/statsquiz/QuestionMC.java" afterPath="$PROJECT_DIR$/StatsQuiz/src/com/jerhis/statsquiz/QuestionMC.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StatsQuiz/src/com/jerhis/statsquiz/StatsGame.java" afterPath="$PROJECT_DIR$/StatsQuiz/src/com/jerhis/statsquiz/StatsGame.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="statsquiz.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -70,16 +79,16 @@
       <file leaf-file-name="Question.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/StatsQuiz/src/com/jerhis/statsquiz/Question.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="29" selection-start="588" selection-end="588" vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="1020">
+            <state line="24" column="29" selection-start="588" selection-end="588" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1020">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GameScreen.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="GameScreen.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/StatsQuiz/src/com/jerhis/statsquiz/GameScreen.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="132" column="64" selection-start="4388" selection-end="4388" vertical-scroll-proportion="0.0" vertical-offset="1887" max-vertical-offset="5083">
+            <state line="19" column="87" selection-start="683" selection-end="683" vertical-scroll-proportion="0.32922536" vertical-offset="0" max-vertical-offset="5117">
               <folding />
             </state>
           </provider>
@@ -88,16 +97,16 @@
       <file leaf-file-name="StatsGame.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/StatsQuiz/src/com/jerhis/statsquiz/StatsGame.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="129" column="58" selection-start="5024" selection-end="5024" vertical-scroll-proportion="0.0" vertical-offset="1683" max-vertical-offset="3553">
+            <state line="109" column="75" selection-start="4130" selection-end="4130" vertical-scroll-proportion="0.0" vertical-offset="1292" max-vertical-offset="3553">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="QuestionMC.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="QuestionMC.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/StatsQuiz/src/com/jerhis/statsquiz/QuestionMC.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="40" column="0" selection-start="1111" selection-end="1111" vertical-scroll-proportion="0.36624774" vertical-offset="459" max-vertical-offset="2312">
+            <state line="75" column="82" selection-start="2870" selection-end="2870" vertical-scroll-proportion="0.0" vertical-offset="1056" max-vertical-offset="2312">
               <folding />
             </state>
           </provider>
@@ -109,6 +118,14 @@
     <FindUsagesManager>
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
@@ -125,20 +142,20 @@
         <option value="$PROJECT_DIR$/StatsQuiz-android/res/values/strings.xml" />
         <option value="$PROJECT_DIR$/StatsQuiz/src/com/jerhis/statsquiz/MainMenuScreen.java" />
         <option value="$PROJECT_DIR$/StatsQuiz/src/com/jerhis/statsquiz/MyGdxGame.java" />
-        <option value="$PROJECT_DIR$/StatsQuiz/src/com/jerhis/statsquiz/GameScreen.java" />
         <option value="$PROJECT_DIR$/StatsQuiz/src/com/jerhis/statsquiz/Question.java" />
-        <option value="$PROJECT_DIR$/StatsQuiz/src/com/jerhis/statsquiz/StatsGame.java" />
         <option value="$PROJECT_DIR$/StatsQuiz/src/com/jerhis/statsquiz/QuestionMC.java" />
+        <option value="$PROJECT_DIR$/StatsQuiz/src/com/jerhis/statsquiz/StatsGame.java" />
+        <option value="$PROJECT_DIR$/StatsQuiz/src/com/jerhis/statsquiz/GameScreen.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="53" />
-    <option name="y" value="4" />
+    <option name="x" value="65" />
+    <option name="y" value="8" />
     <option name="width" value="1833" />
     <option name="height" value="975" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -164,7 +181,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -288,26 +304,34 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="GenerateAntBuildDialog.generateIdeaHomeProperty" value="false" />
     <property name="GoToFile.includeJavaFiles" value="false" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="GenerateAntBuildDialog.generateSingleFile" value="false" />
     <property name="options.lastSelected" value="appearance" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="recentsLimit" value="5" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="GenerateAntBuildDialog.inclineRuntiemClasspath" value="false" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="statsquiz" />
+    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="restartRequiresConfirmation" value="true" />
-    <property name="FullScreen" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
+    <property name="FullScreen" value="false" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="dynamic.classpath" value="false" />
-    <property name="options.searchVisible" value="true" />
+    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="dynamic.classpath" value="false" />
   </component>
   <component name="RunManager" selected="5bb3ea73-ff7d-40e8-9ee4-04f1088d73de">
     <configuration default="true" type="Remote" factoryName="Remote" id="7d480f2f-c3fd-4c1c-b129-5185c8a10151">
@@ -434,6 +458,23 @@
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="68f7c377-8c1a-4e2a-ad5d-4af3b0eeec7d" name="Default" comment="" />
@@ -443,7 +484,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="53" y="4" width="1833" height="975" extended-state="0" />
+    <frame x="65" y="8" width="1833" height="975" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -451,7 +492,6 @@
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32891566" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39976552" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.34735578" sideWeight="0.5003119" order="9" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
@@ -463,10 +503,11 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25325042" sideWeight="0.7373613" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26263872" sideWeight="0.4996881" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25325042" sideWeight="0.736712" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26328802" sideWeight="0.4996881" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -568,9 +609,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/StatsQuiz/src/com/jerhis/statsquiz/GameScreen.java">
+    <entry file="file://$PROJECT_DIR$/StatsQuiz/src/com/jerhis/statsquiz/QuestionMC.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="132" column="64" selection-start="4388" selection-end="4388" vertical-scroll-proportion="0.0" vertical-offset="1887" max-vertical-offset="5083">
+        <state line="75" column="82" selection-start="2870" selection-end="2870" vertical-scroll-proportion="0.0" vertical-offset="1056" max-vertical-offset="2312">
           <folding />
         </state>
       </provider>
@@ -584,14 +625,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/StatsQuiz/src/com/jerhis/statsquiz/StatsGame.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="129" column="58" selection-start="5024" selection-end="5024" vertical-scroll-proportion="0.0" vertical-offset="1683" max-vertical-offset="3553">
+        <state line="109" column="75" selection-start="4130" selection-end="4130" vertical-scroll-proportion="0.0" vertical-offset="1292" max-vertical-offset="3553">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/StatsQuiz/src/com/jerhis/statsquiz/QuestionMC.java">
+    <entry file="file://$PROJECT_DIR$/StatsQuiz/src/com/jerhis/statsquiz/GameScreen.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="0" selection-start="1111" selection-end="1111" vertical-scroll-proportion="0.36624774" vertical-offset="459" max-vertical-offset="2312">
+        <state line="19" column="87" selection-start="683" selection-end="683" vertical-scroll-proportion="0.32922536" vertical-offset="0" max-vertical-offset="5117">
           <folding />
         </state>
       </provider>
@@ -653,6 +694,7 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.5" />
               </list>
             </option>
           </splitter-proportions>
