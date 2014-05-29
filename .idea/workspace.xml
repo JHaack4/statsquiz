@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="68f7c377-8c1a-4e2a-ad5d-4af3b0eeec7d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StatsQuiz-android/assets/checked.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/StatsQuiz-android/assets/unchecked.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StatsQuiz/src/com/jerhis/statsquiz/GameScreen.java" afterPath="$PROJECT_DIR$/StatsQuiz/src/com/jerhis/statsquiz/GameScreen.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StatsQuiz/src/com/jerhis/statsquiz/QuestionMC.java" afterPath="$PROJECT_DIR$/StatsQuiz/src/com/jerhis/statsquiz/QuestionMC.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StatsQuiz-android/assets/checked.png" afterPath="$PROJECT_DIR$/StatsQuiz-android/assets/checked.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StatsQuiz-android/assets/unchecked.png" afterPath="$PROJECT_DIR$/StatsQuiz-android/assets/unchecked.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StatsQuiz/src/com/jerhis/statsquiz/StatsGame.java" afterPath="$PROJECT_DIR$/StatsQuiz/src/com/jerhis/statsquiz/StatsGame.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="statsquiz.iws" />
@@ -85,19 +81,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GameScreen.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="GameScreen.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/StatsQuiz/src/com/jerhis/statsquiz/GameScreen.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="87" selection-start="683" selection-end="683" vertical-scroll-proportion="0.32922536" vertical-offset="0" max-vertical-offset="5117">
+            <state line="19" column="87" selection-start="683" selection-end="683" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="5117">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StatsGame.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="StatsGame.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/StatsQuiz/src/com/jerhis/statsquiz/StatsGame.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="109" column="75" selection-start="4130" selection-end="4130" vertical-scroll-proportion="0.0" vertical-offset="1292" max-vertical-offset="3553">
+            <state line="103" column="61" selection-start="3701" selection-end="3701" vertical-scroll-proportion="0.6883803" vertical-offset="1292" max-vertical-offset="3553">
               <folding />
             </state>
           </provider>
@@ -144,14 +140,13 @@
         <option value="$PROJECT_DIR$/StatsQuiz/src/com/jerhis/statsquiz/MyGdxGame.java" />
         <option value="$PROJECT_DIR$/StatsQuiz/src/com/jerhis/statsquiz/Question.java" />
         <option value="$PROJECT_DIR$/StatsQuiz/src/com/jerhis/statsquiz/QuestionMC.java" />
-        <option value="$PROJECT_DIR$/StatsQuiz/src/com/jerhis/statsquiz/StatsGame.java" />
         <option value="$PROJECT_DIR$/StatsQuiz/src/com/jerhis/statsquiz/GameScreen.java" />
+        <option value="$PROJECT_DIR$/StatsQuiz/src/com/jerhis/statsquiz/StatsGame.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="65" />
-    <option name="y" value="8" />
+    <option name="x" value="74" />
     <option name="width" value="1833" />
     <option name="height" value="975" />
   </component>
@@ -481,10 +476,15 @@
       <created>1401072919238</created>
       <updated>1401072919238</updated>
     </task>
+    <task id="LOCAL-00001" summary="gffzg">
+      <created>1401332793064</created>
+      <updated>1401332793064</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="8" width="1833" height="975" extended-state="0" />
+    <frame x="74" y="0" width="1833" height="975" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -520,6 +520,8 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
+    <MESSAGE value="gffzg" />
+    <option name="LAST_COMMIT_MESSAGE" value="gffzg" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -623,16 +625,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/StatsQuiz/src/com/jerhis/statsquiz/StatsGame.java">
+    <entry file="file://$PROJECT_DIR$/StatsQuiz/src/com/jerhis/statsquiz/GameScreen.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="109" column="75" selection-start="4130" selection-end="4130" vertical-scroll-proportion="0.0" vertical-offset="1292" max-vertical-offset="3553">
+        <state line="19" column="87" selection-start="683" selection-end="683" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="5117">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/StatsQuiz/src/com/jerhis/statsquiz/GameScreen.java">
+    <entry file="file://$PROJECT_DIR$/StatsQuiz/src/com/jerhis/statsquiz/StatsGame.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="87" selection-start="683" selection-end="683" vertical-scroll-proportion="0.32922536" vertical-offset="0" max-vertical-offset="5117">
+        <state line="103" column="61" selection-start="3701" selection-end="3701" vertical-scroll-proportion="0.6883803" vertical-offset="1292" max-vertical-offset="3553">
           <folding />
         </state>
       </provider>

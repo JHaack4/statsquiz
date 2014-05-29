@@ -100,8 +100,8 @@ public class StatsGame {
 
             for (int k = 1; k <= 4; k++) {
                 if (response * 10 == k)
-                    b.draw(checked,x - 45,mcYValues[k] -19);
-                else b.draw(unchecked,x - 45,mcYValues[k] -19);
+                    b.draw(checked,x - 45,mcYValues[k] -16);
+                else b.draw(unchecked,x - 45,mcYValues[k] -16);
             }
 
             f.draw(b,"A: " + ((QuestionMC)(currentQuestion)).a,x,mcYValues[1] + fontCorrection - fontHeight/2);
